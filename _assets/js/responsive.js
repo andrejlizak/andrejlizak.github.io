@@ -1,0 +1,19 @@
+//media queries
+(function($){
+   
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+})(jQuery)
